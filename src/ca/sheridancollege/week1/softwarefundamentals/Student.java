@@ -13,6 +13,7 @@ public class Student {
     
     private String name;
     private int ID;
+    private String change;
 
     public int getID() {
         return ID;
